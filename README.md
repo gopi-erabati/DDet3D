@@ -26,7 +26,7 @@ Existing approaches rely on heuristic or learnable object proposals (which are r
 ### Quantitative Results
 | Config | steps| mAP | NDS | |
 | :---: | :---: |:---: |:---: |:---: |
-| ddet3d_voxel_nus.py | 1 | 61.7 | 65.9 | [weights](https://drive.google.com/file/d/18QQQChBIulw_s0o2Hbks38YK_f__Xqtp/view?usp=sharing) |
+| [ddet3d_voxel_nus.py](configs/ddet3d_voxel_nus.py) | 1 | 61.7 | 65.9 | [weights](https://drive.google.com/file/d/18QQQChBIulw_s0o2Hbks38YK_f__Xqtp/view?usp=sharing) |
 | ddet3d_voxel_nus.py | 2 | 62.9 | 66.4 | |
 | ddet3d_voxel_nus.py | 4 | 63.2 | 66.6 | |
 
